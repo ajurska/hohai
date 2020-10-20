@@ -1,6 +1,6 @@
 (function() {
     var queryStr = window.location.search,
-        currentRequestModify = 'api.php',
+        currentRequestModify = 'https://in.healthynature.xyz/herbal-hair-oil/api.php',
         forms = document.forms,     //search all forms
         formLength = forms.length,  //forms count
         i;
